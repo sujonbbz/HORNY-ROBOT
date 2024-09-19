@@ -1,62 +1,34 @@
-<p align="center"><a href="https://m.me/MR.AYAN.2X" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/oapEhQg.gif" width="50" style="margin-right: 10px;"></a>
+<h1 align="center">Hi 👋, I'm Sujon Be'vies</h1>
+<h3 align="center">A Bangladeshi Small Cyber Specialist. Ethical hacker. Moreover, I like to suffer online.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SUJON-BEVIES" alt="SujonBevies" /></a> </p>
+
+- 🌱 I’m currently learning **Nodejs, PHP**
+
+- 📫 How to reach me **mrsladen2m@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/profile.php?id=61561264605347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SujonBevies" height="30" width="40" /></a>
+<a href="https://instagram.com/sujonbevies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SujonBevjes" height="30" width="40" /></a>
 </p>
-<h5 align="center">
-🔹AYAN CHOWDHURY
-</h5>
-<img src="https://i.postimg.cc/sgXh76X4/received-443931458309917.jpg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> AYAN BOT - Bot Chat Messenger</h1>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+## 📊 Github Stats
+
+<img align="right" src="https://img.shields.io/github/stars/SUJON-BEVIES?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/SUJON-BEVIES?tab=followers"><img align="right" src="https://img.shields.io/github/followers/SUJON-BEVIES?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/SUJON-BEVIES">  <img align="right" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=SUJON-BEVIES"></a>
+
+<br><br>
 
 <p align="center">
-	<a href="https://nodejs.org/dist/v11.30.0">
-		<img src="https://img.shields.io/badge/Nodejs%20Support-17.ox-brightgreen.svg?style=flat-square" alt="Nodejs Support v17.ox">
-	</a>
-  <img alt="size" src="https://img.shields.io/github/repo-size/ayankhan/AYAN-BOT.svg?style=flat-square&label=size">
-  <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=flat-square">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
-  <img alt="size" src="https://img.shields.io/badge/license-ATF-green?style=flat-square&color=brightgreen">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJON-BEVIES&langs_count=8&theme=react&bg_color=151515" />
 </p>
+<p align="center">
+<a href="https://github.com/SUJON-BEVIES"><img alt="SUJON BEVIES's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=SUJON-BEVIES&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUJON-BEVIES&theme=black-ice"
+    alt="SujonBevies"/></p>
 
-- [📝 **Note**](#-note)
-- [🚧 **Requirement**](#-requirement)
-- [📝 **Tutorial**](#-tutorial)
-- [💡 **How it works?**](#-how-it-works)
-- [🔔 **How to get notification when have new update?**](#-how-to-get-notification-when-have-new-update)
-- [🆙 **How to Update**](#-how-to-update)
-- [🛠️ **How to create new commands**](#️-how-to-create-new-commands)
-- [💭 **Support**](#-support)
-- [📚 **Support Languages in source code**](#-support-languages-in-source-code)
-- [📌 **Common Problems**](#-common-problems)
-- [❌ **DO NOT USE THE ORIGINAL UNDERGRADUATE VERSION**](#-do-not-use-the-original-undergraduate-version)
-- [📸 **Screenshots**](#-screenshots)
-- [✨ **Copyright (C)**](#-copyright-c)
-- [📜 **License**](#-license)
-
-<div align="center">
-			<h3>My Replit Account ->
-			<a href="https://replit.com/@mohammadayan555" style="color: green;">@Ayanchoudhuri🔥</a>
-				<br>
-	My Facebook Account ->
-	<a href="https://www.facebook.com/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: black;">Ayan🚀</a></h3></div>
-
-<img align="center" src="https://i.postimg.cc/fTHMVJGR/Screenshot-2024-05-01-17-14-43-11.jpg"/>
-
-
-🔹Mohammad Ayan
-
-
-# Editing AYAN CHOWDHURY😘
-
-# AYAN-SUPPER-ROBOT real owner Mohammad Ayan-!!🥀
-
-# Everyone run this AYAN-ROBOT for fun
-
-# If there is any error, I will fix it by knocking on Facebook
-
-# https://m.me/MR.AYAN.2X
-
-# I hope you enjoy
-
-# THANK YOU
-
-# 🥀🥀🥀🥀🥀🥀
+<br/>
